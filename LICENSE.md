@@ -2,6 +2,9 @@
 
 * Copyright 2016 Max Infeld CC-BY-4.0
 * Copyright 2016 Brad Erickson CC-BY-4.0
+* Copyright 2012 Ivan Filipov neogrey.com 2012 CC-BY-4.0
+
+Artwork source: http://www.neogrey.com/portfolio/multicolore-vector-typeface/
 
 ## Artwork
 * Applies to SVG file and TTF font files

@@ -1,0 +1,35 @@
+# SCFBuild configuration file for Multicoloure SVGinOT
+output_file: build/Multicoloure-SVGinOT.ttf
+verbose: True
+glyph_svg_dir: bw
+color_svg_dir: color
+# Translate the B&W SVGs on import into glyphs.
+glyph_translate_x: 0
+glyph_translate_y: 0
+#color_transform:
+# Space width matching DejaVu Sans.
+width_space: 561
+table_name:
+  copyright: >
+    Multicoloure © Xerographer Fonts 2016 CC-BY-4.0
+    Multicolore © Ivan Filipov neogrey.com 2012 CC-BY-4.0
+  family: Multicoloure
+  # Subfamily is also called Style or Weight. Often set to: Regular
+  subfamily: Regular
+  unique_id: Multicoloure SVGinOT xerographer.com
+  full_name: Multicoloure SVGinOT
+  # No spaces in PostScript Names
+  postscript_name: MulticoloureSVGinOT
+  #trademark:
+  manufacturer: Xerographer Fonts
+  designer: Ivan Filipov
+  description: >
+    A SVGinOT color font made by Xerographer Fonts in San Francisco, California.
+    © 2016 Max Infeld and Brad Erickson CC-BY-4.0.
+    https://github.com/xerographer/multicoloure-color-font
+    Using graphics from Multicolore Vector Typeface by © Ivan Filipov neogrey.com
+    2012 CC-BY-4.0.
+  url_vendor: https://xerographer.github.io/
+  url_designer: http://www.neogrey.com/portfolio/multicolore-vector-typeface/
+  license: Creative Commons Attribution 4.0 International
+  url_license: http://creativecommons.org/licenses/by/4.0/
